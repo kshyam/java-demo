@@ -1,8 +1,5 @@
 # simple-java-maven-app
 
-
-
-
 If you have forked this repo, then connect with Razorops to create your demo pipeline by following the below button
 
 [![Connect](https://github.com/razorops-public/images/blob/main/connect_with_github.svg)](https://dashboard.razorops.com/get-github-installation-link-for-org)
